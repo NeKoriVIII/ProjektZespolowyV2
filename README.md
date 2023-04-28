@@ -53,7 +53,7 @@ Testy będą wykonywane w sposób manualny. Także zaplanowana jest automatyzacj
 zajęłoby dużo czasu. W taki sposób zostanie osiągnięta optymizacja procesu testowania oraz zmniejszenie jego czasochłonności. 
 Automatyzacja testów będzie realizowana za pomocą Selenium IDE oraz Cucumber i Selenium WebDriver
 
-W celu skutecznego wyszukiwania błędów, będzie zaprojektowana duża liczba negatywnych przypadków testowych.
+W celu skutecznego wyszukiwania błędów, będzie zaprojektowana duża liczba negatywnych przypadków testowych w których celowo podawane będą błędne wartości, by sprawdzić jak się zachowa aplikacja przy takich warunkach. W pozytywnych przypadkach testowych podawane są prawidłowe właściwości. 
 
 Przy realizacji danego projektu stosowane jest podejście scrumowe. Do wizualizacji zadań oraz skutecznego 
 zarządzania nimi przez zespół będzie wykorzystane narzędzia trello. Przypadki testowe będą prowadzone za pośrednictwem 
