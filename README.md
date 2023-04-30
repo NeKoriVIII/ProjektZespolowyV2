@@ -102,19 +102,20 @@ Sprint III 13.04.2023:
 + sporządzenie raportów z wykonanych testów
 + projekt prezentacji z postępów prac
 
-Zakończenie prac oraz ostatnia retrospektywa 20.04.2023
-
 Sprint IV 25.04.2023:
 
 + uporządkowanie repozytorium GitHub
 + poprawka prezentacji z postępów prac
 + poprawka raportów z testowania
 
+Zakończenie prac oraz ostatnia retrospektywa 29.04.2023
+
 **8. Środowiska testowe**
 
 Urządzenia na których będą wykonywane testy:
 
-+ 4 komputery z systemem Windows 10
++ 2 PK z systemem Windows 10 Enterprise LTSC 
++ Laptop z systemem Windows 11
 
 Przeglądarki w których będzie testowana aplikacja webowa:
 
@@ -133,7 +134,7 @@ Narzędzia do automatyzacji testów:
 
 Prowadzenie backlogu testowania:
 
-+ Repozytorium GitHub (projekt_zespolowy_v2.0)
++ Repozytorium GitHub (https://github.com/NeKoriVIII/ProjektZespolowyV2/)
 
 Narzędzia wspomagające:
 
